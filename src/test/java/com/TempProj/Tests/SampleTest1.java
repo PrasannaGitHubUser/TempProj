@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 public class SampleTest1 {
 
 	@Test
-	public void testNG1() {
+	public void myTestNG1() {
 		System.out.println("testNG1");
 	}
 	
